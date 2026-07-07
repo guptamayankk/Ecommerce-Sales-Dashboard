@@ -28,6 +28,9 @@ This project is an interactive Microsoft Excel dashboard designed to analyze eco
 
 ## 📈 Dashboard Features
 
+<img width="1834" height="658" alt="image" src="https://github.com/user-attachments/assets/2b3bff71-f723-49b5-a5ff-9f31c2b7feac" />
+
+
 - Total Sales
 - Total Profit
 - Total Orders
